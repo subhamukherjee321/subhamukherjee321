@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in PortFolio<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about REACT.JS,  JavaScript, TypeScript, HTML, CSS <br>⚡ Fun fact I am Curious Guy
+🔭 I’m currently working in PortFolio<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about REACT.JS,  JavaScript, TypeScript, HTML, CSS <br>⚡ Fun fact I am Curious Guy
 
 
 ## 🌐 Socials:
