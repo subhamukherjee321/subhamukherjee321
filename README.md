@@ -1,4 +1,5 @@
-<h1 align="center">Hi, Subha Mukherjee Here!!👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramboss8055&label=Profile%20views&color=0e75b6&style=flat" alt="bikramboss8055" /> </p>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Subha Mukherjee!!</h1>
 🔭 I’m currently working in PortFolio<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about REACT.JS,  JavaScript, TypeScript, HTML, CSS <br>⚡ Fun fact I am Curious Guy
 
 
