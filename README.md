@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Avinash Patel Here!!👋</h1>
+<h1 align="center">Hi, Subha Mukherjee Here!!👋</h1>
 🔭 I’m currently working in PortFolio<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about REACT.JS,  JavaScript, TypeScript, HTML, CSS <br>⚡ Fun fact I am Curious Guy
 
 
