@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Subha Mukherjee</h1>
 🔭 I’m currently working in PortFolio<br><br>
-🌱 I’m currently learning Full Stack Web Development | MERN Stack <br><br>
+🌱 I’m currently learning Full Stack Web Development || MERN Stack <br><br>
 💬 Ask me about REACT.JS,  JavaScript, TypeScript, HTML, CSS <br><br>
 ⚡ Fun fact I am Curious Guy <br><br>
 📧 Email - subhamukherjee321@gmail.com <br><br>
