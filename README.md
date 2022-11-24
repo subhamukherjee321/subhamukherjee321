@@ -8,7 +8,7 @@
   🌱 I’m currently learning Full Stack Web Development || MERN Stack <br><br>
   💬 Ask me about REACT.JS,  JavaScript, TypeScript, HTML, CSS <br><br>
   ⚡ Fun fact I am Curious Guy <br><br>
-  📧 Email - subhamukherjee321@gmail.com <br><br>
+  📧 Email - [subhamukherjee321@gmail.com](url) <br><br>
   💼 Portfolio - https://subhamukherjee321.github.io
 </div>
 
